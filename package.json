@@ -1,0 +1,15 @@
+{
+  "name": "resel",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/bench.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reselect": "^5.1.0"
+  }
+}
